@@ -1,3 +1,5 @@
+# NFT-token-rendered-on-OpenSea-testnet-using-Truffle-IPFS-and-ERC1155-standard
+Created Non-Fungible tokens using ERC1155 standard and deployed on the Ethereum Blockchain. The NFT integrates with the IPFS and renders on the OpenSea testnet Marketplace. Technology: Truffle-JavaScript, Pinata-IPFS, ERC 1155, OpenSea, Web3js, Openzeppelin, solidity, Infura
 ## OpenSea ERC-1155 Starter Contracts
 
 - [About these contracts](#about-these-contracts)
